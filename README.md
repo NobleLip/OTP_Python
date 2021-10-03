@@ -13,7 +13,7 @@
 Today i was signing on Steam and came a cross the SteamGuard system used to secure all the steam accounts , soo i whanted to replicate the same thing as simple as possible, making it possible to share passwords between people the safest way possible.
 
 * How to use:
-	* Change 'YourPassWord' to what you whant ```py
+	* Change 'YourPassWord' to what you whant ``` py
 	random.seed('YourPassWord')
 	```
 	
