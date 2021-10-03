@@ -21,4 +21,4 @@ Today i was signing on Steam and came a cross the SteamGuard system used to secu
 	* Done
 	
 	
-The password changes every 10 seconds, making it possible to login it the 6 digit password.
+**The password changes every 10 seconds, making it possible to login it the 6 digit password.**
